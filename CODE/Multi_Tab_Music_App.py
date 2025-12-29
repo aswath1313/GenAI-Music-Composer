@@ -4,7 +4,7 @@ from io import BytesIO
 from dotenv import load_dotenv
 from app.main import MusicLLM
 from app.utils import *
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Load environment variables
 load_dotenv()
@@ -17,17 +17,21 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# --- Logging System ---
+# --- Logging System (Adjusted for IST) ---
+def get_ist_time():
+    # Streamlit Cloud uses UTC by default. Adding 5:30 for IST.
+    return (datetime.utcnow() + timedelta(hours=5, minutes=30)).strftime("%H:%M:%S")
+
 if "logs" not in st.session_state:
     st.session_state.logs = [
-        {"time": datetime.now().strftime("%H:%M:%S"), "level": "INFO", "msg": "System Boot Sequence Initialized.", "icon": "ℹ️"},
-        {"time": datetime.now().strftime("%H:%M:%S"), "level": "SUCCESS", "msg": "Cloud Infrastructure Verified.", "icon": "✅"},
-        {"time": (datetime.now()).strftime("%H:%M:%S"), "level": "INFO", "msg": "Groq LPU Engine Ready.", "icon": "🚀"}
+        {"time": get_ist_time(), "level": "INFO", "msg": "System Boot Sequence Initialized.", "icon": "ℹ️"},
+        {"time": get_ist_time(), "level": "SUCCESS", "msg": "Cloud Infrastructure Verified.", "icon": "✅"},
+        {"time": get_ist_time(), "level": "INFO", "msg": "Groq LPU Engine Ready.", "icon": "🚀"}
     ]
 
 def add_log(level, msg, icon="ℹ️"):
     new_log = {
-        "time": datetime.now().strftime("%H:%M:%S"),
+        "time": get_ist_time(),
         "level": level,
         "msg": msg,
         "icon": icon
