@@ -18,7 +18,11 @@
 This project is designed as a template for **Production-Grade AI Orchestration**, showcasing best practices in LLM chaining, digital signal synthesis, and cloud-native deployment.
 
 ---
-
+## 🌐🎬 Live Demo
+🚀 **Try it now:**
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/
+---
 ## 🎬 Experience the Innovation
 
 ### **Interactive Music Workshop**
@@ -96,16 +100,6 @@ For a non-technical overview, here is how the orchestration works in simple term
 
 ---
 
-## 🤝 Contributing & Community
-
-This project is a high-fidelity demonstration of AI orchestration. We welcome contributions that push the boundaries of Generative Music:
-
-1. **Bug Reports**: Open an issue if you find any synthesis or rendering glitches.
-2. **Feature Requests**: Suggest new musical styles or theory validation layers.
-3. **Pull Requests**: Feel free to submit enhancements to the UI or synthesis engine.
-
-Please refer to our [Issue Tracker](https://github.com/Ratnesh-181998/GenAI-Music-Composer/issues) to get started!
-
 ## 📋 Comprehensive Feature Walkthrough
 
 ### **1. 🎬 Demo Project Tab**
@@ -163,6 +157,18 @@ Create a `.env` file in the `CODE/` directory:
 ```env
 GROQ_API_KEY=your_key_here
 ```
+
+---
+
+## 🤝 Contributing & Community
+
+This project is a high-fidelity demonstration of AI orchestration. We welcome contributions that push the boundaries of Generative Music:
+
+1. **Bug Reports**: Open an issue if you find any synthesis or rendering glitches.
+2. **Feature Requests**: Suggest new musical styles or theory validation layers.
+3. **Pull Requests**: Feel free to submit enhancements to the UI or synthesis engine.
+
+Please refer to our [Issue Tracker](https://github.com/Ratnesh-181998/GenAI-Music-Composer/issues) to get started!
 
 ---
 
