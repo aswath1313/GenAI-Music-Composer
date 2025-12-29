@@ -1,3 +1,5 @@
+![Project Banner](banner.png)
+
 # 🎹 GenAI Music Composer: Professional Orchestration Studio
 ### *Transforming Natural Language into High-Fidelity Musical Compositions with Llama 3.1 & Groq LPU*
 
@@ -37,6 +39,9 @@ The application follows a rigorous **four-layer architectural pattern** to ensur
 2.  **🎼 Theory Orchestration**: Raw AI outputs are passed through **Music21**, ensuring chromatic consistency, intervalic integrity, and rhythmic stabilization.
 3.  **🔊 Synthesis Engine**: Converts validated musical notation into high-fidelity sound waves using **SciPy** and digital synthesis libraries.
 4.  **☁️ Cloud-Native Deployment**: Fully containerized with **Docker**, orchestrated on **Google Kubernetes Engine (GKE)**, and managed via **GitLab CI/CD**.
+
+### **🖼️ Detailed System Blueprint**
+![System Architecture Blueprint](AI+Music+Composer+Workflow.png)
 
 ---
 
