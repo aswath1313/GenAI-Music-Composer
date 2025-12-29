@@ -84,6 +84,28 @@ The system operates through a sequential five-stage pipeline:
 
 ---
 
+## 🎯 For Stakeholders: Simple Logical Flow
+
+For a non-technical overview, here is how the orchestration works in simple terms:
+
+1. **User Idea**: The user types a simple instruction (e.g., "Create a calm jazz tune").
+2. **AI Analysis**: Our Llama-3.1 model understands the mood, style, and tempo.
+3. **Musical Planning**: The AI plans the specific notes and rhythms like a human composer.
+4. **Digital Synthesis**: Those plans are converted into actual sound waves and a playable file.
+5. **Instant Playback**: The user listens to the final professional output directly in the app.
+
+---
+
+## 🤝 Contributing & Community
+
+This project is a high-fidelity demonstration of AI orchestration. We welcome contributions that push the boundaries of Generative Music:
+
+1. **Bug Reports**: Open an issue if you find any synthesis or rendering glitches.
+2. **Feature Requests**: Suggest new musical styles or theory validation layers.
+3. **Pull Requests**: Feel free to submit enhancements to the UI or synthesis engine.
+
+Please refer to our [Issue Tracker](https://github.com/Ratnesh-181998/GenAI-Music-Composer/issues) to get started!
+
 ## 📋 Comprehensive Feature Walkthrough
 
 ### **1. 🎬 Demo Project Tab**
