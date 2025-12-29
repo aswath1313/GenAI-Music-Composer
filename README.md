@@ -18,7 +18,12 @@ An advanced **Generative AI** application that transforms natural language descr
 -   **📊 Operations Monitor**: Built-in system logging and metrics for observability.
 
 ---
-
+## 🌐🎬 Live Demo
+🚀 **Try it now:**
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/
+- 
+---
 ## 🎬 Live Demonstration
 
 ### **Interactive Workshop in Action**
@@ -135,7 +140,7 @@ This project is licensed under the **MIT License**. Feel free to explore, modify
 -   📱 **Phone**: +91-947XXXXX46
 
 ### **Project Links**
--   🌐 **Live Demo**: [Streamlit App](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
+-   🌐 **Live Demo**: [Streamlit App](https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/)
 -   📖 **Documentation**: [GitHub Wiki](https://github.com/Ratnesh-181998/GenAI-Music-Composer/wiki)
 -   🐛 **Issue Tracker**: [GitHub Issues](https://github.com/Ratnesh-181998/GenAI-Music-Composer/issues)
 -   💬 **Discussions**: [GitHub Discussions](https://github.com/Ratnesh-181998/GenAI-Music-Composer/discussions)
