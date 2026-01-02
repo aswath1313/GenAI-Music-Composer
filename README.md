@@ -222,3 +222,17 @@ Please refer to our [Issue Tracker](https://github.com/Ratnesh-181998/GenAI-Musi
 
 ---
 *Built with professional integrity and Generative AI excellence. © 2024 Ratnesh Kumar Singh.*
+
+---
+*Built with passion for the AI Community. 🚀*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+  
+</div>
+
+
